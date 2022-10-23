@@ -1,0 +1,24 @@
+.minion {
+    width: 50%;
+    height: 120px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.mk4 {
+    /* border-radius: 50%; */
+    border-color: red;
+    width: 50%;
+    height: 120px;
+    border-bottom-left-radius: 5%;
+    border-right-color: blueviolet;
+
+}
+#images{
+    background-image: url('https://cdn.pixabay.com/photo/2014/10/31/17/41/dancing-dave-minion-510835_960_720.jpg');
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+   
+}
