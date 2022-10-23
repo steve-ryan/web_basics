@@ -1,0 +1,20 @@
+/* .main{
+    background-color: green;
+} */
+
+#wp{
+    background-color: red;
+}
+.p1,.p2{
+color: white;
+font-size: 26px;
+font-style: italic;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-weight: 200;
+}
+.p1{
+    text-align: center;
+}
+.p3{
+    color: antiquewhite;
+}

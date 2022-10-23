@@ -1,0 +1,45 @@
+body {
+    padding: 0px;
+    margin: 0;
+}
+
+#contact {
+    color: green;
+}
+
+.menu {
+    position: relative;
+    background-color: antiquewhite;
+    margin: 0px auto;
+    padding: 0 50px;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.title {
+    font-size: 20px;
+    margin-right: 50px;
+    font-style: italic;
+    color: green;
+}
+
+.link {
+    padding: 0 10px;
+    text-decoration: none;
+}
+.sidebar{
+    width: 250px;
+    background-color: aquamarine;
+    height: 85vh;
+}
+.content{
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    order: 1;
+}
